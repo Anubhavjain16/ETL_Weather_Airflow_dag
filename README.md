@@ -1,4 +1,4 @@
-# ⛅ ETL Weather Data Pipeline
+# ⛅ Automated Weather Data Pipeline with Airflow
 
 ## 📌 Project Overview
 This project is an **ETL (Extract, Transform, Load) pipeline** built using **Apache Airflow** to fetch real-time weather data from the Open-Meteo API, process it, and store it in a **PostgreSQL database**. The pipeline is fully automated and scheduled to run **daily**.
